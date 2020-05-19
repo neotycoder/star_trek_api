@@ -13,7 +13,7 @@ import pprint
 
 r = requests.post('http://stapi.co/api/v1/rest/season/search')
 
-# For shits and grins, I want to just check the status code of the request. I'll add more logic here
+# For fun, I want to just check the status code of the request. I'll add more logic here
 # to determine whether the service goes down and quits. Just in case STAPI is shutdown. 
 
 status_code = r.status_code
