@@ -44,3 +44,4 @@ startrek_starships_json = startrek_starships.json()
 # Print the starthips from the search
 pp.pprint(startrek_starships_json)
 
+# Need to add an example of an individual query of a specific category.
