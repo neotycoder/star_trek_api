@@ -1,6 +1,6 @@
 # star_trek_api
 
-Created this repo as a lock down project. I'm busy with stuff most of the time, and with everything closed, I'm spending more time at home. I've gotten bored of just streaming content, and watching the news is just one big revolving door of negativity and boredom. 
+Created this repo as a lock down / quarantine project. I'm busy with stuff most of the time, and with everything closed, I'm spending more time at home. I've gotten bored of just streaming content, and watching the news is just one big revolving door of negativity and boredom. (As of 2020/05/21)
 
 So one night, I did a Google search and discovered that someone created a Star Trek API. Wow, that's cool. 
 
